@@ -13,8 +13,8 @@
 
 /* Colors adapted from https://tailwindcss.com/docs/customizing-colors */
 
-@tailwind base;
-@tailwind components;
+/* @tailwind base; */
+/* @tailwind components; */
 @tailwind utilities;
 
 :root {
