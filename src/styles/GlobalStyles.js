@@ -120,6 +120,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: var(--color-grey-700);
+  overflow-x: hidden;
 
   transition:
     color 0.3s,
